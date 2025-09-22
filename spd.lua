@@ -1,6 +1,5 @@
--- gbl.lua - Pilot Dashboard (GPS • Cell • RC Link + Lat/Lon persist)
+-- spd.lua - Simple Pilot Dashboard
 -- Radiomaster Pocket & Boxer (EdgeTX 128x64)
--- Battery reading uses VFAS -> A2 -> RxBt (unchanged). Simple, strict cell detection.
 -- by Seonski
 
 ----------------------------------------------------------------
