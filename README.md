@@ -11,6 +11,7 @@ A compact telemetry screen for **Radiomaster Pocket & Boxer (128×64)** running 
 - **Crash recovery / Find-my-quad:** read the last coordinates from the radio and paste into Google Maps.  
 - **Pack health at a glance:** true **per-cell** voltage to judge sag and landing time.  
 - **Link confidence:** track **LQ%/RSSI** for long-range and obstacle-rich flights.
+- **Real Time GPS count:** checking sat count on a cold boot made easy.
 
 ---
 
@@ -40,7 +41,7 @@ A compact telemetry screen for **Radiomaster Pocket & Boxer (128×64)** running 
 
 3. **Assign the screen**
    - **Model → Telemetry → Screens → Screen 1 (or any free slot)**
-   - **Type:** `Script` → select **`gbl`**
+   - **Type:** `Script` → select **`spd`**
 
 4. **View it**
    - From the home screen, press **PAGE** to cycle to telemetry screens.
